@@ -230,21 +230,60 @@ I'm always excited to **learn something new** and **build something useful**. Le
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                        🎓  ACADEMIC JOURNEY                             ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║  📘  Master of Computer Applications (MCA)          2024 — 2026         ║
-║      LJ University                                                       ║
-║      ▸ Web Technologies  ▸ IoT Systems  ▸ Software Development           ║
-║                                                                          ║
-║  📗  Bachelor of Computer Applications (BCA)        2019 — 2022         ║
-║      Bholabhai Patel College — KSV University                            ║
-║      ▸ Programming  ▸ Database Management  ▸ Web Development             ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<table width="80%">
+<tr>
+<td align="center" colspan="2">
+<img src="https://img.shields.io/badge/──────────────%20🎓%20ACADEMIC%20JOURNEY%20──────────────-0d1117?style=for-the-badge&labelColor=0d1117&color=00d4aa"/>
+</td>
+</tr>
+
+<!-- MCA -->
+<tr>
+<td width="8%" align="center" valign="top"><br/>
+<img src="https://img.shields.io/badge/MCA-00d4aa?style=for-the-badge&labelColor=0d1117"/>
+</td>
+<td width="92%" valign="top">
+<br/>
+
+**🏛️ Master of Computer Applications** &nbsp;&nbsp; ![](https://img.shields.io/badge/2024%20—%202026-00d4aa?style=flat-square&labelColor=0d1117)
+
+**LJ University**, Ahmedabad, Gujarat
+
+![](https://img.shields.io/badge/Web%20Technologies-58A6FF?style=flat-square&labelColor=0d1117)&nbsp;
+![](https://img.shields.io/badge/IoT%20Systems-00d4aa?style=flat-square&labelColor=0d1117)&nbsp;
+![](https://img.shields.io/badge/Software%20Development-a371f7?style=flat-square&labelColor=0d1117)&nbsp;
+![](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=flat-square&labelColor=0d1117)
+
+<br/>
+</td>
+</tr>
+
+<!-- Divider -->
+<tr><td colspan="2" align="center">
+<img src="https://img.shields.io/badge/────────────────────────────────────────────-0d1117?style=flat-square&labelColor=0d1117&color=30363d"/>
+</td></tr>
+
+<!-- BCA -->
+<tr>
+<td width="8%" align="center" valign="top"><br/>
+<img src="https://img.shields.io/badge/BCA-a371f7?style=for-the-badge&labelColor=0d1117"/>
+</td>
+<td width="92%" valign="top">
+<br/>
+
+**🏛️ Bachelor of Computer Applications** &nbsp;&nbsp; ![](https://img.shields.io/badge/2019%20—%202022-a371f7?style=flat-square&labelColor=0d1117)
+
+**Bholabhai Patel College of Computer Studies**, KSV University
+
+![](https://img.shields.io/badge/Programming-58A6FF?style=flat-square&labelColor=0d1117)&nbsp;
+![](https://img.shields.io/badge/Database%20Management-00d4aa?style=flat-square&labelColor=0d1117)&nbsp;
+![](https://img.shields.io/badge/Web%20Development-a371f7?style=flat-square&labelColor=0d1117)&nbsp;
+![](https://img.shields.io/badge/CS%20Fundamentals-FF6F00?style=flat-square&labelColor=0d1117)
+
+<br/>
+</td>
+</tr>
+</table>
 
 </div>
 
