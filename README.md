@@ -25,51 +25,63 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+## 👋 About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<div align="center">
 
-```typescript
-const dhaval = {
-  name      : "Dhaval Prajapati",
-  title     : "MCA Graduate | Full-Stack Dev | IoT Engineer",
-
-  education : [
-    "🎓 MCA — LJ University       (2024–2026)",
-    "🎓 BCA — KSV University      (2019–2022)",
-  ],
-
-  skills : {
-    web    : ["HTML","CSS","JS","PHP","MySQL","Flask"],
-    iot    : ["Arduino UNO","IR Sensors","LCD","I2C"],
-    ai_ml  : ["scikit-learn","OpenCV","NumPy","Groq"],
-    design : ["Canva","Social Media","Thumbnails"],
-  },
-
-  stats    : { projects: 6, techs: "10+", degree: "MCA" },
-  location : "India 🇮🇳",
-  status   : "🟢 Open to Opportunities",
-  motto    : "Build. Learn. Repeat. 🔁",
-};
-```
-
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" style="border-radius:12px"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF"/>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Status-Open%20to%20Work-00d4aa?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Location-Gujarat%2C%20India-FF9933?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Degree-MCA%20(Pursuing)-58A6FF?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Projects-6%20Completed-a371f7?style=flat-square&labelColor=0d1117)
+### Hey there! I'm Dhaval 😄
 
+I'm an **MCA student** from Gujarat, India who loves turning ideas into real digital products. 🚀<br/>
+Whether it's building a full-stack web app, tinkering with Arduino circuits, or training an ML model —<br/>
+I'm always excited to **learn something new** and **build something useful**. Let's create together! 🤝
+
+<br/>
+
+<!-- Stats Cards Row -->
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚀-6-00d4aa?style=for-the-badge&labelColor=0d1117&color=00d4aa" height="28"/><br/>
+<sub><b>Projects Built</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🛠️-10%2B-58A6FF?style=for-the-badge&labelColor=0d1117&color=58A6FF" height="28"/><br/>
+<sub><b>Technologies</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎓-MCA-a371f7?style=for-the-badge&labelColor=0d1117&color=a371f7" height="28"/><br/>
+<sub><b>Degree (Pursuing)</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🟢-Open%20to%20Work-2ea043?style=for-the-badge&labelColor=0d1117&color=2ea043" height="28"/><br/>
+<sub><b>Current Status</b></sub>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- Fun Facts -->
+<table>
+<tr>
+<td align="center">🌐</td><td>Full-Stack Web Dev with <b>HTML, CSS, JS, PHP & MySQL</b></td>
+<td align="center">🤖</td><td>Building AI/ML apps using <b>Python, Flask & scikit-learn</b></td>
+</tr>
+<tr>
+<td align="center">🔌</td><td>IoT tinkerer with <b>Arduino & sensor hardware</b></td>
+<td align="center">🎨</td><td>Designing visuals with <b>Canva & social media creatives</b></td>
+</tr>
+<tr>
+<td align="center">📍</td><td>Based in <b>Gujarat, India</b> 🇮🇳</td>
+<td align="center">💬</td><td>Ask me about <b>Web Dev, IoT, AI or anything tech!</b></td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
