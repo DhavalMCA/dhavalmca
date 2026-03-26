@@ -27,7 +27,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```typescript
 const dhaval = {
@@ -35,26 +37,39 @@ const dhaval = {
   title     : "MCA Graduate | Full-Stack Dev | IoT Engineer",
 
   education : [
-    "🎓 MCA  — LJ University          (2024–2026)",
-    "🎓 BCA  — KSV University          (2019–2022)",
+    "🎓 MCA — LJ University       (2024–2026)",
+    "🎓 BCA — KSV University      (2019–2022)",
   ],
 
-  skills    : {
-    web     : ["HTML", "CSS", "JS", "PHP", "MySQL", "Python", "Flask"],
-    iot     : ["Arduino UNO", "IR Sensors", "LCD", "I2C"],
-    ai_ml   : ["scikit-learn", "OpenCV", "NumPy", "Groq API"],
-    design  : ["Canva", "Social Media", "Thumbnails"],
+  skills : {
+    web    : ["HTML","CSS","JS","PHP","MySQL","Flask"],
+    iot    : ["Arduino UNO","IR Sensors","LCD","I2C"],
+    ai_ml  : ["scikit-learn","OpenCV","NumPy","Groq"],
+    design : ["Canva","Social Media","Thumbnails"],
   },
 
-  stats     : { projects: 6, technologies: "10+", degree: "MCA" },
-  location  : "India 🇮🇳",
-  status    : "🟢 Open to Opportunities",
-
-  motto     : "Build. Learn. Repeat. 🔁",
+  stats    : { projects: 6, techs: "10+", degree: "MCA" },
+  location : "India 🇮🇳",
+  status   : "🟢 Open to Opportunities",
+  motto    : "Build. Learn. Repeat. 🔁",
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" style="border-radius:12px"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/Status-Open%20to%20Work-00d4aa?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Location-Gujarat%2C%20India-FF9933?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Degree-MCA%20(Pursuing)-58A6FF?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Projects-6%20Completed-a371f7?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
